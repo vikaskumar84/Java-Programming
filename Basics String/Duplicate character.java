@@ -1,5 +1,5 @@
 import java.util.*;
-class CountWords{
+class DuplicatChar{
 	public static void main(String[] args){
 		boolean found=false;
 		Scanner sc=new Scanner(System.in);
