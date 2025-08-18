@@ -1,0 +1,11 @@
+import java.util.*;
+public class LowerString{
+	public static void main(String[] args){
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter any string ");
+		String str=sc.nextLine();
+		System.out.println("original string :"+str);
+		System.out.println("lower string :"+str.toLowerCase());
+	}
+
+}
