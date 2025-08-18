@@ -4,7 +4,8 @@ public class UpperString{
 		Scanner sc=new Scanner(System.in);
 		System.out.println("Enter any string ");
 		String str=sc.nextLine();
-		System.out.print(str.toUpperCase());
+		System.out.println("original string :"+str);
+		System.out.println("Upper string :"+str.toUpperCase());
 	}
 
 }
